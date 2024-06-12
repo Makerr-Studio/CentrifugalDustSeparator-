@@ -1,7 +1,7 @@
 # CentrifugalDustSeparator
 Centrifugal Dust Separator - MK2 - 3D Files for printing
 
-<a target="_blank" rel="noopener noreferrer" href="\Makerr-Studio/CentrifugalDustSeparator-/blob/main/MK2/MK2 Dust Separator.pdf"><img src="/Makerr-Studio/CentrifugalDustSeparator-/blob/main/MK2/IMAGES/MK2_intersection_A-A.JPG" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="MK2/MK2 Dust Separator.pdf"><img src="/MK2/IMAGES/MK2_intersection_A-A.JPG" alt="" style="max-width: 100%;"></a>
 
 For the test video see:
 
