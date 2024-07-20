@@ -20,6 +20,8 @@ EU alternative Acrylic tube 150x3mm = https://www.kunststofforte.nl/product/tran
 
 O-ring        = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 
+Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
+
 Inspired by Pilson Guitars build project:
 
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
