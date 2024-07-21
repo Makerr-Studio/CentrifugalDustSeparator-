@@ -1,5 +1,5 @@
 # CentrifugalDustSeparator
-Centrifugal Dust Separator - MK2 - 3D Files for printing
+Centrifugal Dust Separator - MK2 - 3D Files for printing (Beta release)
 
 See <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/">STEP-files</a> of MK2. All parts are designd to print on bambulab build volume(WxDxH) 256 x 256 x 256 mm³. 
 
@@ -27,3 +27,7 @@ Inspired by Pilson Guitars build project:
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
 
 Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
+
+
+Changelog:
+21-07-2024: Folder BAMBU LAB added with the .3mf files for Bambu Lab. Added the impeller and impeller-mirror and fixed the Non-manifold edges error. (Working on the other .3fm files to add)
