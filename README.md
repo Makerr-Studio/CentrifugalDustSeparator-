@@ -29,5 +29,5 @@ Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
 Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
-Changelog:
+Changelog:<br>
 21-07-2024: Folder BAMBU LAB added with the .3mf files for Bambu Lab. Added the impeller and impeller-mirror and fixed the Non-manifold edges error. (Working on the other .3fm files to add)
