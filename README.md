@@ -17,7 +17,7 @@ Parts/Supplies:
 6" Clear PVC  = https://www.amazon.com/dp/B09NJLNW58?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 EU alternative* Acrylic tube 150x3mm = https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
-(*Files for EU version available soon.)
+<br>(*Files for EU version available soon.)
 
 O-ring        = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 
