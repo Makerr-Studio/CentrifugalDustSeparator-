@@ -31,5 +31,5 @@ Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 Changelog:<br>
-29-07-2024: To solve issues with print imperfections on the mirrored impeller; Use OrcaSlicer and set the wall loop direction to clockwise. Thx @Mik3503 for the tip!<br>
+29-07-2024: To solve issues with print imperfections on the mirrored impeller; Use <a target="_blank" rel="noopener noreferrer" href="[MK2/STEP/](https://github.com/SoftFever/OrcaSlicer/releases)">OrcaSlicer</a>  and set the wall loop direction to clockwise. Thx @Mik3503 for the tip!<br>
 21-07-2024: Folder BAMBU LAB added with the .3mf files for Bambu Lab. Added the impeller and impeller-mirror and fixed the Non-manifold edges error. (Working on the other .3fm files to add)
