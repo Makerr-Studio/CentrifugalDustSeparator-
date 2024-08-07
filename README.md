@@ -16,8 +16,8 @@ Parts/Supplies:
 
 6" Clear PVC  = https://www.amazon.com/dp/B09NJLNW58?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-EU alternative* Acrylic tube 150x3mm = https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
-<br>(*Files for EU version available soon.)
+EU alternative Acrylic tube 150x3.5mm = https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
+UK alternative Acrylic tube 150x3mm = https://plasticonline.co.uk/150mm-diameter-clear-acrylic-tube.html
 
 O-ring        = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 
@@ -31,7 +31,8 @@ Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 Changelog:<br>
-07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> files added for EU alternative.<br>
+07-08-2024: Step Files added for UK version Tube. Not printed of tested jet. <br>
+07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> files added for EU alternative. Not tested jet. <br>
 02-08-2024: OrcaSlicer file from mirrored impeller added.<br>
 01-08-2024: All .3fm files are available now. Also add all the .stl-files.<br>
 29-07-2024: To solve issues with print imperfections on the mirrored impeller; Use the open-source OrcaSlicer and set the wall loop direction to clockwise. Thx @Mik3503 for the tip!
