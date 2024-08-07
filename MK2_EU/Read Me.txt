@@ -1,1 +1,2 @@
-Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
+Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/<br>
+Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results. 
