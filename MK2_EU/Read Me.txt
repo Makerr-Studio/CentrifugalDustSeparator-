@@ -2,7 +2,7 @@ Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-a
 Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
 
 
-I adjusted the MK2 files to EU the tube dimensions:
+I adjusted the MK2 files to the EU tube dimensions:
 
     Wall thickness: 3.5 mm
     OD: 151,375 mm
