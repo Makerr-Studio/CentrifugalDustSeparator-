@@ -1,10 +1,10 @@
-Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/<br>
-Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results. <br>
-<br>
-<br>
-I adjusted the MK2 files to EU the tube dimensions:<br>
-<br>
-    Wall thickness: 3.5 mm<br>
-    OD: 151,375 mm<br>
-    ID: 144,375 mm<br>
+Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
+Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
+
+
+I adjusted the MK2 files to EU the tube dimensions:
+
+    Wall thickness: 3.5 mm
+    OD: 151,375 mm
+    ID: 144,375 mm
 
