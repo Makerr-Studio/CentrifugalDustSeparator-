@@ -31,6 +31,7 @@ Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 Changelog:<br>
+07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_EU/STEP/">MK2_EU</a> files added for EU alternative.
 02-08-2024: OrcaSlicer file from mirrored impeller added.<br>
 01-08-2024: All .3fm files are available now. Also add all the .stl-files.<br>
 29-07-2024: To solve issues with print imperfections on the mirrored impeller; Use the open-source OrcaSlicer and set the wall loop direction to clockwise. Thx @Mik3503 for the tip!
