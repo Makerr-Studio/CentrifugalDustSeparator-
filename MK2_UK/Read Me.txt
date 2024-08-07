@@ -1,4 +1,8 @@
-UK version with this https://plasticonline.co.uk/150mm-diameter-clear-acrylic-tube.html tube from the UK.
+Files adjusted for UK tube: https://plasticonline.co.uk/150mm-diameter-clear-acrylic-tube.html
+Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
+
+
+I adjusted the MK2 files to the UK tube dimensions:
 
     Wall thickness: 3.1mm
     OD: 150.05mm
