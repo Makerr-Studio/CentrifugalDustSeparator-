@@ -1,5 +1,7 @@
-Files adjusted for EU tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
+Files adjusted for EU 150x3mm tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
 Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
+
+120x3mm O-Ring EU = https://www.techniekwebshop.nl/o-ring-120-x-3-or1203p001-makkelijk-vervormbaar-precisie-o-ring-nitrilrubber-nbr-din-3771-70-amp-deg-sh-120-mm.html
 
 
 I adjusted the MK2 files to the EU tube dimensions:
@@ -8,3 +10,5 @@ I adjusted the MK2 files to the EU tube dimensions:
     OD: 151,375 mm
     ID: 144,375 mm
 
+Changelog:
+19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better seal/fit. Will make testprints for this in the next week.
