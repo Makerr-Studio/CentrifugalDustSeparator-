@@ -21,6 +21,9 @@ UK alternative Acrylic tube 150x3mm = https://plasticonline.co.uk/150mm-diameter
 
 O-ring        = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 
+O-Ring EU      =
+https://www.kramp.com/shop-de/de/p/o-ring-120-x-3--OR1203P001
+
 Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
 
 Inspired by Pilson Guitars build project:
@@ -31,6 +34,7 @@ Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 Changelog:<br>
+19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better fit. Will make testprints for this in the next weeks.<br>
 10-08-2024: Added BAMBU LAB and OrcaSlicer files to MK2_UK.<br>
 07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_UK/">MK2_UK</a> Step Files added for UK version Tube. Not printed of tested jet. <br>
 07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> files added for EU alternative. Not tested jet. <br>
