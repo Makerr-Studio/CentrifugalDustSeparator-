@@ -4,7 +4,7 @@ Print the mirrored impeller with the OrcaSlicer file clockwise for clean print r
 120x3mm O-Ring EU = https://www.techniekwebshop.nl/o-ring-120-x-3-or1203p001-makkelijk-vervormbaar-precisie-o-ring-nitrilrubber-nbr-din-3771-70-amp-deg-sh-120-mm.html
 
 
-I adjusted the MK2 files to the EU tube dimensions:
+I adjusted the MK2 files to the real life EU tube dimensions I measured:
 
     Wall thickness: 3.5 mm
     OD: 151,375 mm
