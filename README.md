@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ENybYVAr11Q&t=1102s
 
 Part 1 of the build video is available on Youtube: https://www.youtube.com/watch?v=bCNDPIjRccw
 
-Parts/Supplies:
+<b>Parts/Supplies:</b>
 
 6" Clear PVC  = https://www.amazon.com/dp/B09NJLNW58?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
@@ -26,14 +26,14 @@ https://www.kramp.com/shop-de/de/p/o-ring-120-x-3--OR1203P001
 
 Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
 
-Inspired by Pilson Guitars build project:
+<b>Inspired by Pilson Guitars build project:</b>
 
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
 
 Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
-Changelog:<br>
+<b>Changelog:</b><br>
 24-08-2024: MK2_EU Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better fit. Will make testprints for this in the next weeks.<br>
 10-08-2024: Added BAMBU LAB and OrcaSlicer files to MK2_UK.<br>
