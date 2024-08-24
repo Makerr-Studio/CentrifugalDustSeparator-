@@ -34,6 +34,7 @@ Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 Changelog:<br>
+24-08-2024: MK2_EU Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better fit. Will make testprints for this in the next weeks.<br>
 10-08-2024: Added BAMBU LAB and OrcaSlicer files to MK2_UK.<br>
 07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_UK/">MK2_UK</a> Step Files added for UK version Tube. Not printed of tested jet. <br>
