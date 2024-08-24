@@ -10,7 +10,7 @@ For the test video see:
 
 https://www.youtube.com/watch?v=ENybYVAr11Q&t=1102s
 
-Part 1 of the build video is availeble on Youtube: https://www.youtube.com/watch?v=bCNDPIjRccw
+Part 1 of the build video is available on Youtube: https://www.youtube.com/watch?v=bCNDPIjRccw
 
 Parts/Supplies:
 
