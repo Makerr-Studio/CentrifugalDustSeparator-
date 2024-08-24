@@ -10,7 +10,7 @@ For the test video see:
 
 https://www.youtube.com/watch?v=ENybYVAr11Q&t=1102s
 
-The complete build video will be availeble end of July.
+Part 1 of the build video is availeble on Youtube: https://www.youtube.com/watch?v=bCNDPIjRccw
 
 Parts/Supplies:
 
