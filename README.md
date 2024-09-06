@@ -30,7 +30,7 @@ Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my cas
 
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
 
-Grithub: https://github.com/pilsonguitars/centrifugalDustSeparator
+Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 <b>Changelog:</b><br>
