@@ -26,6 +26,8 @@ https://www.kramp.com/shop-de/de/p/o-ring-120-x-3--OR1203P001
 
 Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
 
+Compresion tape 50 mm x 30 m version of this tape: https://bluedolphintapes.com/product/acoustic-tape/
+
 <b>Inspired by Pilson Guitars build project:</b>
 
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
@@ -34,6 +36,7 @@ Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 <b>Changelog:</b><br>
+08-09-2024: Parts for the French Cleats added. Fusion file is in the making. Type of compresion tape added.<br>
 05-09-2024: Parts for the T-Loc added. Note: I did not print the latch and latch cover (these are just the 3D STEP files I used for the design, feel free to try to 3D print them)<br>
 24-08-2024: MK2_EU Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better fit. Will make testprints for this in the next weeks.<br>
