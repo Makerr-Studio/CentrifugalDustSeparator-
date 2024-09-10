@@ -1,5 +1,6 @@
 # CentrifugalDustSeparator
 Centrifugal Dust Separator - MK2 - 3D Files for printing (Beta release)
+Suport me on: https://www.patreon.com/CapturingDust
 
 See <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/">STEP-files</a> of MK2. All parts are designd to print on bambulab build volume(WxDxH) 256 x 256 x 256 mm³. 
 
