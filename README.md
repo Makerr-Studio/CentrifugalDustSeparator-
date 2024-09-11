@@ -37,7 +37,7 @@ Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 <b>Changelog:</b><br>
-11-09-2024: In the folder <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> I added the Shaper files (.svg and also the .DXF's) and the Fusion archive files (.f3d) of the baseplate and cleat.
+11-09-2024: In the folder <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> I added the Shaper files (.svg and also the .DXF's) and the Fusion archive files (.f3d) of the baseplate and cleat.<br>
 08-09-2024: Parts for the French Cleats added. Fusion file is in the making. Type of compresion tape added.<br>
 05-09-2024: Parts for the T-Loc added. Note: I did not print the latch and latch cover (these are just the 3D STEP files I used for the design, feel free to try to 3D print them)<br>
 24-08-2024: MK2_EU Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
