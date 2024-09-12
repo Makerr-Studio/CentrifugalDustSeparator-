@@ -29,6 +29,8 @@ Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my cas
 
 Compresion tape 50 mm x 30 m version of this tape: https://bluedolphintapes.com/product/acoustic-tape/
 
+3D printable Systainer T-Loc: https://www.printables.com/model/313989-systainer-t-loc
+
 <b>Inspired by Pilson Guitars build project:</b>
 
 Youtube: https://www.youtube.com/watch?v=R4R9GfCQrW4&t=2s
