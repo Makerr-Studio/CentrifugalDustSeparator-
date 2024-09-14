@@ -19,9 +19,10 @@ https://www.youtube.com/watch?v=j7K9fEa8Re8
 <b>Parts/Supplies:</b>
 
 6" Clear PVC  = https://www.amazon.com/dp/B09NJLNW58?psc=1&ref=ppx_yo2ov_dt_b_product_details
+Or: https://www.woodcraft.com/products/woodriver-dust-connection-clear-pvc-tube-36-x-6 (Free Shipping with Code "PENCIL" $20 each, scale to 99.6%)
 
 EU alternative Acrylic tube 150x3mm (real size 151x3.5mm)= https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/<br>
-UK alternative Acrylic tube 150x3mm = https://plasticonline.co.uk/150mm-diameter-clear-acrylic-tube.html
+UK alternative Acrylic tube 150x3mm (real size 150.05x3.1mm)= https://plasticonline.co.uk/150mm-diameter-clear-acrylic-tube.html
 
 O-ring        = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 
@@ -29,6 +30,7 @@ O-Ring EU      =
 https://www.kramp.com/shop-de/de/p/o-ring-120-x-3--OR1203P001
 
 Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
+(For US: $79.60 set of 3 - Free shipping: https://www.hartvillehardware.com/product/sku-1337339/festool-dust-extractors-accessories)
 
 Compresion tape 50 mm x 30 m version of this tape: https://bluedolphintapes.com/product/acoustic-tape/
 
