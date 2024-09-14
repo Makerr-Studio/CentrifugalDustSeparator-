@@ -48,7 +48,7 @@ Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 24-08-2024: MK2_EU Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better fit. Will make testprints for this in the next weeks.<br>
 10-08-2024: Added BAMBU LAB and OrcaSlicer files to MK2_UK.<br>
-07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_UK/">MK2_UK</a> Step Files added for UK version Tube. Not printed of tested jet. <br>
+07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_UK/">MK2_UK</a> Step Files added for UK version Tube. Not printed of tested yet. <br>
 07-08-2024: <a target="_blank" rel="noopener noreferrer" href="MK2_EU/">MK2_EU</a> files added for EU alternative. Not tested jet. <br>
 02-08-2024: OrcaSlicer file from mirrored impeller added.<br>
 01-08-2024: All .3fm files are available now. Also added all the .stl-files.<br>
