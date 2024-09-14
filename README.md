@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=ENybYVAr11Q&t=1102s
 
 Part 1 of the build video is available on Youtube: https://www.youtube.com/watch?v=bCNDPIjRccw
 
+Part 2 of the build video is available on Youtube:
+https://www.youtube.com/watch?v=j7K9fEa8Re8
+
 <b>Parts/Supplies:</b>
 
 6" Clear PVC  = https://www.amazon.com/dp/B09NJLNW58?psc=1&ref=ppx_yo2ov_dt_b_product_details
