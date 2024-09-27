@@ -23,7 +23,7 @@ jobs:
       - name: Convert F3D to STL
         run: |
           for f in MK2_EU/Fusion/*.f3d; do
-            f3d "$f" --output="${f%.f3d}.stl"
+            echo f3d "$f" --output="${f%.f3d}.stl"
           done
 
       # - name: Upload STL files
