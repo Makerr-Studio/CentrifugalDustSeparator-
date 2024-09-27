@@ -32,7 +32,7 @@ jobs:
         import os
         import cadquery as cq
 
-        for filename in "${{ env.FILES }}".split()":
+        for filename in "${{ env.FILES }}".split():
           if filename.lower().endswith('.step') or filename.lower().endswith('.stp'):
             step_file = filename
             stl_file = os.path.splitext(filename)[0] + '.stl'
