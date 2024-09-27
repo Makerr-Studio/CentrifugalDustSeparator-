@@ -3,6 +3,7 @@ name: Convert STEP to STL
 on:
   push:
     paths:
+      - .github/workflows/foo.yaml
       - MK2/STEP/*.stp
       - MK2_EU/STEP/*.stp
       - MK2_UK/STEP/*.stp
