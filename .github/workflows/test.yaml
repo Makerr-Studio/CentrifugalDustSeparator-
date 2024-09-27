@@ -1,33 +1,47 @@
-name: Convert F3D to STL
+name: Convert STEP to STL
 
 on:
   push:
-    branches:
-      - main
-    # paths:
-    #   - MK2_EU/Fusion/MK2_EU_french_cleat.f3d
+    paths:
+      - MK2/STEP/*.stp
+      - MK2_EU/STEP/*.stp
+      - MK2_UK/STEP/*.stp
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   convert:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install cadquery
+    - name: Build file list
+      run: |
+        echo FILES=$(find MK2/STEP MK2_EU/STEP MK2_UK/STEP -name *.stp) | tee -a $GITHUB_ENV
+    - name: Convert STEP to STL
+      shell: python
+      run: |
+        import os
+        import cadquery as cq
 
-      - name: Install F3D
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y f3d
+        for filename in os.listdir('.'):
+          if filename.lower().endswith('.step') or filename.lower().endswith('.stp'):
+            step_file = filename
+            stl_file = os.path.splitext(filename)[0] + '.stl'
 
-      - name: Convert F3D to STL
-        run: |
-          for f in MK2_EU/Fusion/*.f3d; do
-            echo f3d "$f" --output="${f%.f3d}.stl"
-          done
+            print(f'Converting {step_file} to {stl_file}')
 
-      # - name: Upload STL files
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: stl-files
-      #     path: models/*.stl
+            result = cq.importers.importStep(step_file)
+            # cq.exporters.export(result, stl_file)
+    - name: Commit STL files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Convert STEP to STL
+        branch: ${{ github.head_ref }}
