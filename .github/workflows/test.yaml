@@ -24,6 +24,7 @@ jobs:
         pip install cadquery
     - name: Build file list
       run: |
+        echo "why did nothing happen?"
         echo FILES=$(find MK2/STEP MK2_EU/STEP MK2_UK/STEP -name *.stp) | tee -a $GITHUB_ENV
     - name: Convert STEP to STL
       shell: python
