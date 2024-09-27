@@ -22,14 +22,14 @@ jobs:
         pip install cadquery mxnet
     - name: Build file list
       run: |
-        echo FILES=$(find MK2/STEP MK2_EU/STEP MK2_UK/STEP T-Loc\ Parts/STEP -name *.stp) | tee -a $GITHUB_ENV
+        echo FILES=$(find MK2/STEP MK2_EU/STEP MK2_UK/STEP T-Loc\ Parts/STEP -name *.stp | sed 's/.*/"&"/') | tee -a $GITHUB_ENV
     - name: Convert STEP to STL
       shell: python
       run: |
         import os
         import cadquery as cq
 
-        for filename in "${{ env.FILES }}".split():
+        for filename in "${{ env.FILES }}".split('\n'):
           if filename.lower().endswith('.step') or filename.lower().endswith('.stp'):
             step_file = filename
             stl_file = os.path.splitext(filename)[0] + '.stl'
