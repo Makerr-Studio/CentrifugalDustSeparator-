@@ -36,13 +36,14 @@ jobs:
           if filename.lower().endswith('.step') or filename.lower().endswith('.stp'):
             step_file = filename
             stl_file = os.path.splitext(filename)[0] + '.stl'
+            stl_file = stl_file.replace('/STEP/', '/STL/', 1)
 
             print(f'Converting {step_file} to {stl_file}')
 
             result = cq.importers.importStep(step_file)
-            # cq.exporters.export(result, stl_file)
+            cq.exporters.export(result, stl_file)
     - name: Commit STL files
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Convert STEP to STL
+        commit_message: Automated convertion of STEP to STL
         branch: ${{ github.head_ref }}
