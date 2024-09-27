@@ -1,5 +1,4 @@
 name: Convert STEP to STL
-
 on:
   push:
     paths:
@@ -9,7 +8,6 @@ on:
       - MK2_UK/STEP/*.stp
   # pull_request:
   #   branches: [ "main" ]
-
 jobs:
   convert:
     runs-on: ubuntu-latest
