@@ -1,5 +1,10 @@
-<a target="_blank" rel="noopener noreferrer" href="/MK2_EU_Dust-Separator_REV2.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
+Centrifugal Dust Separator - MK2_EU - 3D Files for printing (Beta release)
+Support me on: https://www.patreon.com/CapturingDust
 
+<img src="/MK2_EU/IMAGES/MK2_EU_REV2_3D.JPG" alt="" style="max-width: 100%;">
+<img src="/MK2_EU/IMAGES/MK2_EU_REV2_SECTION-VIEW.JPG" alt="" style="max-width: 100%;">
+
+<a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
 Files adjusted for EU 150x3mm tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
 Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
 
@@ -17,7 +22,7 @@ Patreon member purchased his tubes at a German seller on Amazon: https://www.ama
 <br>    EU Files printed at 99.4% scale (Check your tube dimensions always with the scaling ring.)
 
 <h2>Old versions</h2>
-<a target="_blank" rel="noopener noreferrer" href="/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
 
 <h2>Changelog:</h2><br>
 24-08-2024: Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
