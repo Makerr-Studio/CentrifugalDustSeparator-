@@ -4,7 +4,6 @@ Support me on: https://www.patreon.com/CapturingDust
 <img src="/MK2_EU/IMAGES/MK2_EU_REV2_3D.JPG" alt="" style="max-width: 100%;">
 <img src="/MK2_EU/IMAGES/MK2_EU_REV2_SECTION-VIEW.JPG" alt="" style="max-width: 100%;">
 
-<a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
 Files adjusted for EU 150x3mm tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
 Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
 
@@ -20,6 +19,9 @@ I adjusted the MK2 files to the real life EU Kunststofforte tube dimensions I me
 Patreon member purchased his tubes at a German seller on Amazon: https://www.amazon.com.be/dp/B0CBKV2Y2K
 <br>    ID: 143,46 mm
 <br>    EU Files printed at 99.4% scale (Check your tube dimensions always with the scaling ring.)
+
+<h2>Latest versions</h2>
+<a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
 
 <h2>Old versions</h2>
 <a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
