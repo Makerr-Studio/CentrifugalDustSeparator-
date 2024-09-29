@@ -12,4 +12,4 @@ I adjusted the MK2 files to the real life EU tube dimensions I measured:
 
 Changelog:
 24-08-2024: Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.
-19-08-2024: Added 120x3mm O-rings i switced to while building the EU version. Still need to change the parts for a better seal/fit. Will make testprints for this in the next week.
+19-08-2024: Added 120x3mm O-rings I switched to while building the EU version. Still need to change the parts for a better seal/fit. Will make testprints for this in the next week.
