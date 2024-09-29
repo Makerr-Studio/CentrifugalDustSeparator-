@@ -24,6 +24,7 @@ Patreon member purchased his tubes at a German seller on Amazon: https://www.ama
 <a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
 
 <h2>Old versions</h2>
+<img src="/MK2_EU/IMAGES/MK2_EU_3D.JPG" alt="" style="max-width: 100%;">
 <a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
 
 <h2>Changelog:</h2><br>
