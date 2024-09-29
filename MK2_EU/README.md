@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer" href="MK2_EU/MK2_EU_Dust-Separator_REV2.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
+
 Files adjusted for EU 150x3mm tube: https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/
 Print the mirrored impeller with the OrcaSlicer file clockwise for clean print results.
 
@@ -14,6 +16,9 @@ Patreon member purchased his tubes at a German seller on Amazon: https://www.ama
 <br>    ID: 143,46 mm
 <br>    EU Files printed at 99.4% scale (Check your tube dimensions always with the scaling ring.)
 
-Changelog:<br>
+<h2>Old versions</h2>
+<a target="_blank" rel="noopener noreferrer" href="MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
+
+<h2>Changelog:</h2><br>
 24-08-2024: Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings I switched to while building the EU version. Still need to change the parts for a better seal/fit. Will make testprints for this in the next week.
