@@ -27,6 +27,6 @@ Patreon member purchased his tubes at a German seller on Amazon: https://www.ama
 <a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU.JPG" alt="" style="max-width: 100%;"></a>
 
 <h2>Changelog:</h2><br>
-29-09-2024: Completed the drawing files of MK2_EU_REV2. Added the STEP-files for the REV2 parts.
+29-09-2024: Completed the drawing files of MK2_EU_REV2. Added the STEP-files for the REV2 parts.<br>
 24-08-2024: Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.<br>
 19-08-2024: Added 120x3mm O-rings I switched to while building the EU version. Still need to change the parts for a better seal/fit. Will make testprints for this in the next week.
