@@ -2,6 +2,12 @@
 Centrifugal Dust Separator - MK2 - 3D Files for printing (Beta release)<br>
 Support me on: https://www.patreon.com/CapturingDust
 
+Tube suppliers depends on geographical location, and so do the tube dimentions.
+Files are adjusted accordingly, see README files of the spesific build versions:
+<a target="_blank" rel="noopener noreferrer" href="MK2/"><img src="/MK2/IMAGES/USA-MK2.jpg" alt=""></a>
+<a target="_blank" rel="noopener noreferrer" href="MK2_EU/"><img src="/MK2/IMAGES/EU-MK2_EU.jpg" alt=""></a>
+<a target="_blank" rel="noopener noreferrer" href="MK2_UK/"><img src="/MK2/IMAGES/UK-MK2_UK.jpg" alt=""></a>
+
 See <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/">STEP-files</a> of MK2. All parts are designd to print on bambulab build volume(WxDxH) 256 x 256 x 256 mm³. 
 <br>*note: Adjusted parts for EU & UK versions are available. For parts that are not listed (such as the Y-pieces) see the normal MK2 version.<br>
 <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/"><img src="/MK2/IMAGES/MK2.JPG" alt="" style="max-width: 100%;"></a>
