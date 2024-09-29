@@ -9,4 +9,4 @@ Tube dimensions I measured:
 Patreon member purchased his tubes at Woodcraft: 
 <br>  https://www.woodcraft.com/products/woodriver-dust-connection-clear-pvc-tube-36-x-6 
 <br>  Free Shipping with Code "PENCIL" $20 each
-<br>  MK2 Files printed at 99.6% scale
+<br>Check your tube dimensions always with the scaling ring.
