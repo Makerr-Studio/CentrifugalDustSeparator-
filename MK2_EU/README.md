@@ -12,7 +12,7 @@ I adjusted the MK2 files to the real life EU Kunststofforte tube dimensions I me
 
 Patreon member purchased his tubes at a German seller on Amazon: https://www.amazon.com.be/dp/B0CBKV2Y2K
     ID: 143,46 mm
-    EU Files printed at 99.4% scale
+    EU Files printed at 99.4% scale (Check your tube dimensions always with the scaling ring.)
 
 Changelog:
 24-08-2024: Inlet and outlet parts adjusted for a better O-ring seal/fit for the 120x3mm O-rings.
