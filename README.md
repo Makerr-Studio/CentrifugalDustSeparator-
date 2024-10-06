@@ -49,6 +49,7 @@ Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 <h2>Changelog:</h2><br>
+06-10-2024: Prusa printable Y-pieces added to folder <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/">MK2/STEP</a><br>
 29-09-2024: Changed the README file to better explain the differend design folder.<br>
 28-09-2024: I did find out that a normal nut won't lock the impeller assembly for the long run. PLA will shrink/compress over time, and loosens the nut. Use a spring washer & lock nut instead!<br>
 14-09-2024: Added the REV2 files of the Y-pieces + brackeds. They need less material to print now by removing the needs for support. Thx @philreindl for the tip!<br>
