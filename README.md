@@ -38,7 +38,7 @@ O-ring MK2     = https://www.kramp.com/shop-de/de/p/o-ring-140-x-3--OR1403P001
 Collection container        = Festool VAB-20/1 part nr. 204294 (204295 in my case because its a pack of 3).
 <br>(For US: $79.60 set of 3 - Free shipping: https://www.hartvillehardware.com/product/sku-1337339/festool-dust-extractors-accessories)
 
-Compresion tape 50 mm x 30 m version of this tape: https://bluedolphintapes.com/product/acoustic-tape/
+Compresion tape: 50 mm x 30 m x 3mm version of this tape: https://bluedolphintapes.com/product/acoustic-tape/
 
 3D printable Systainer T-Loc: https://www.printables.com/model/313989-systainer-t-loc
 
