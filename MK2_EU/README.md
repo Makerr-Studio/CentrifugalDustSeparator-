@@ -20,6 +20,11 @@ Patreon member purchased his tubes at a German seller on Amazon: https://www.ama
 <br>    ID: 143,46 mm
 <br>    EU Files printed at 99.4% scale (Check your tube dimensions always with the scaling ring.)
 
+Github member <a target="_blank" rel="noopener noreferrer" href="https://github.com/3dtrix">3dtrix</a> from Germany purchased his tubes from this online shop (Original Plexiglas manufacture):
+<br>150mm / 3mm
+<br>https://www.plexiglas-shop.com/de/produkte/ro0a070gt.html
+<br>They ship to EU incl. UK<br><br>
+
 <h2>Latest versions</h2>
 <a target="_blank" rel="noopener noreferrer" href="/MK2_EU/MK2_EU_Dust-Separator.pdf"><img src="/MK2_EU/IMAGES/MK2_EU_REV2.JPG" alt="" style="max-width: 100%;"></a>
 
