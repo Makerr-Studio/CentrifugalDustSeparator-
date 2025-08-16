@@ -49,7 +49,7 @@ Github: https://github.com/pilsonguitars/centrifugalDustSeparator
 
 
 <h2>Changelog:</h2><br>
-16-08-2025: 200mm single tube Centrifugal dust Separator STEP-files added. Including third stage intergration <a target="_blank" rel="noopener noreferrer" href="MK2_EU_200mm/">MK2/STEP</a>.<br>
+16-08-2025: 200mm single tube Centrifugal dust Separator STEP-files added. Including third stage intergration <a target="_blank" rel="noopener noreferrer" href="MK2_EU_200mm/">MK2/STEP</a>. Used Acrylic tube 200x3mm from https://www.kunststofforte.nl/product/transparante-acrylaat-buizen-xt/<br>
 15-01-2025: STEP-files of Y-piece, bracked and inlet added for 100mm tube to MK2 and MK2_EU. <br>
 06-10-2024: Prusa printable Y-pieces added to folder <a target="_blank" rel="noopener noreferrer" href="MK2/STEP/">MK2/STEP</a><br>
 29-09-2024: Changed the README file to better explain the differend design folder.<br>
